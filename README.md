@@ -1,4 +1,4 @@
-# DevOps Lab — Git + Docker
+
 # DevOps Lab — Git + Docker
 
 ![CI](https://github.com/mohammedadnan-10/devops-lab/actions/workflows/ci.yml/badge.svg)
